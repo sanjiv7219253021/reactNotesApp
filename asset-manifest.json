@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/reactNotesApp/static/css/main.a937b98d.chunk.css",
+    "main.js": "/reactNotesApp/static/js/main.ef36392a.chunk.js",
+    "main.js.map": "/reactNotesApp/static/js/main.ef36392a.chunk.js.map",
+    "runtime-main.js": "/reactNotesApp/static/js/runtime-main.7f67bef7.js",
+    "runtime-main.js.map": "/reactNotesApp/static/js/runtime-main.7f67bef7.js.map",
+    "static/js/2.4564f5db.chunk.js": "/reactNotesApp/static/js/2.4564f5db.chunk.js",
+    "static/js/2.4564f5db.chunk.js.map": "/reactNotesApp/static/js/2.4564f5db.chunk.js.map",
+    "index.html": "/reactNotesApp/index.html",
+    "static/css/main.a937b98d.chunk.css.map": "/reactNotesApp/static/css/main.a937b98d.chunk.css.map",
+    "static/js/2.4564f5db.chunk.js.LICENSE.txt": "/reactNotesApp/static/js/2.4564f5db.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7f67bef7.js",
+    "static/js/2.4564f5db.chunk.js",
+    "static/css/main.a937b98d.chunk.css",
+    "static/js/main.ef36392a.chunk.js"
+  ]
+}
